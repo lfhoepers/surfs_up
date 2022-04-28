@@ -6,7 +6,7 @@ The purpose of this project is to review weather patterns in Hawaii to open a su
 
 The following file is the query used:
 
-[SurfsUp_Challenge.ipynb](https://github.com/lfhoepers/surfs_up/blob/2ece03448ce1529fbe39c6d2c9fb579559a12f2c/SurfsUp_Challenge.ipynb)
+[SurfsUp_Challenge.ipynb](https://github.com/lfhoepers/surfs_up/blob/0ac0bcbc6bdc832e07772412544b777be2975641/SurfsUp_Challenge.ipynb)
 
 The Database used is SQLite and we can download the file [here](https://github.com/lfhoepers/surfs_up/blob/2ece03448ce1529fbe39c6d2c9fb579559a12f2c/hawaii.sqlite)
 
